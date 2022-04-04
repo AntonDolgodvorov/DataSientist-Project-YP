@@ -17,8 +17,6 @@
 Pandas
 sklearn
 numpy
-LightGBM
 Matplotlib
 StatsModels
-CatBoost
 машинное обучение
